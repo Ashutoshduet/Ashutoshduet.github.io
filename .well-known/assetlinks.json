@@ -46,5 +46,17 @@
         "0A:B7:7A:98:09:65:59:3C:40:11:6D:66:B5:82:4C:4F:1C:A0:D0:DF:79:9D:8E:4F:A2:35:0B:C4:97:B1:CB:48"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "in.duetpower.solarsystem360.box",
+      "sha256_cert_fingerprints": [
+        "0A:B7:7A:98:09:65:59:3C:40:11:6D:66:B5:82:4C:4F:1C:A0:D0:DF:79:9D:8E:4F:A2:35:0B:C4:97:B1:CB:48"
+      ]
+    }
   }
 ]
