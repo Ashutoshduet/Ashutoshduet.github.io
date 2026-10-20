@@ -58,5 +58,17 @@
         "0A:B7:7A:98:09:65:59:3C:40:11:6D:66:B5:82:4C:4F:1C:A0:D0:DF:79:9D:8E:4F:A2:35:0B:C4:97:B1:CB:48"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "in.duetpower.humanbody.vr",
+      "sha256_cert_fingerprints": [
+        "6D:48:1F:05:C8:77:F9:90:D7:EA:27:7F:F1:EA:C5:49:1E:91:05:15:89:99:57:53:8D:B9:F5:E5:EA:D3:86:98"
+      ]
+    }
   }
 ]
