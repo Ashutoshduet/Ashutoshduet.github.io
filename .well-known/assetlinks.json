@@ -70,5 +70,17 @@
         "6D:48:1F:05:C8:77:F9:90:D7:EA:27:7F:F1:EA:C5:49:1E:91:05:15:89:99:57:53:8D:B9:F5:E5:EA:D3:86:98"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "in.duetpower.dronesim",
+      "sha256_cert_fingerprints": [
+        "38:86:0E:76:44:F2:5D:70:B8:3E:E0:44:3C:19:C9:A7:9A:A9:93:7D:9D:0B:2D:94:D3:67:3D:68:BD:22:46:63"
+      ]
+    }
   }
 ]
