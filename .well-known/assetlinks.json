@@ -82,5 +82,17 @@
         "38:86:0E:76:44:F2:5D:70:B8:3E:E0:44:3C:19:C9:A7:9A:A9:93:7D:9D:0B:2D:94:D3:67:3D:68:BD:22:46:63"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "in.duetpower.sciencelab.vr",
+      "sha256_cert_fingerprints": [
+        "F8:6C:13:57:F7:94:D4:02:88:F6:A1:FE:46:3B:6B:F6:BA:29:29:57:3C:F5:5D:9C:51:D1:6B:64:08:11:F1:CD"
+      ]
+    }
   }
 ]
