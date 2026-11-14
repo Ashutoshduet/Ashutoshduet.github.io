@@ -94,5 +94,17 @@
         "F8:6C:13:57:F7:94:D4:02:88:F6:A1:FE:46:3B:6B:F6:BA:29:29:57:3C:F5:5D:9C:51:D1:6B:64:08:11:F1:CD"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "in.duetpower.mathslab.vr",
+      "sha256_cert_fingerprints": [
+        "F8:A0:71:1F:ED:BC:15:E6:73:EA:95:FC:E1:55:BD:11:88:02:BA:52:B1:00:DC:A0:FB:49:04:20:8A:5C:4C:6F"
+      ]
+    }
   }
 ]
