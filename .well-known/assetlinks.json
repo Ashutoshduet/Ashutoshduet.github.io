@@ -106,5 +106,17 @@
         "F8:A0:71:1F:ED:BC:15:E6:73:EA:95:FC:E1:55:BD:11:88:02:BA:52:B1:00:DC:A0:FB:49:04:20:8A:5C:4C:6F"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "in.duetpower.roboticslab.vr",
+      "sha256_cert_fingerprints": [
+        "9D:EF:B8:30:E7:59:BC:20:13:75:1B:03:7F:56:88:D6:E4:D6:12:6C:54:10:83:4C:E9:FA:1C:78:59:47:3F:C4"
+      ]
+    }
   }
 ]
