@@ -115,7 +115,8 @@
       "namespace": "android_app",
       "package_name": "in.duetpower.roboticslab.vr",
       "sha256_cert_fingerprints": [
-        "9D:EF:B8:30:E7:59:BC:20:13:75:1B:03:7F:56:88:D6:E4:D6:12:6C:54:10:83:4C:E9:FA:1C:78:59:47:3F:C4"
+        "9D:EF:B8:30:E7:59:BC:20:13:75:1B:03:7F:56:88:D6:E4:D6:12:6C:54:10:83:4C:E9:FA:1C:78:59:47:3F:C4",
+        "DD:88:3F:D1:16:04:F5:7F:8C:8B:5C:1E:23:0D:4F:9F:92:A5:AA:CD:4E:4F:08:31:15:6C:C4:BF:E4:47:5F:1D"
       ]
     }
   }
